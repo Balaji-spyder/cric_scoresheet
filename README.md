@@ -34,12 +34,12 @@ The **Cricket Score Sheet Generator** is a C++ program designed to simulate and 
    - Displays all stored matches or specific matches based on user input.
 
 ---
-##How to Use
-###Prerequisites
+## How to Use
+### Prerequisites
 - C++ compiler.
 - Basic knowledge of running C++ programs.
   
-###Installation
+### Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/Balaji-spyder/cric_scoresheet.git
