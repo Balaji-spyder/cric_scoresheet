@@ -1,9 +1,6 @@
 
 # Cricket Score Sheet Generator
 
-## Overview
-The **Cricket Score Sheet Generator** is a C++ program designed to simulate and generate detailed score sheets for cricket matches. It allows users to create, store, display, and search cricket match data in a structured format. The program uses randomization to simulate match outcomes, including runs scored, wickets taken, and extras, while providing a comprehensive output of the match statistics.
-
 ---
 
 ## Features
